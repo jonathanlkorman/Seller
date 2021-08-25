@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://expo.dev/@jonathanlk39/Seller?release-channel=staging">
-        <img src="Seller/app/assets/icon.png" width="100" alt="Seller"/>
+        <img src="app/assets/icon.png" width="100" alt="Seller"/>
     </a>
     <h1 align="center"> Seller </h1>
 </p>
